@@ -4,6 +4,10 @@ from lab1_4 import calculate_average, add_tax, greet_user
 
 class TestLab1_4(unittest.TestCase):
 
+
+    
+
+
     # Tests for calculate_average
     def test_average_integers(self):
         """Test average with three whole numbers."""
